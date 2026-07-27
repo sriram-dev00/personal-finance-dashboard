@@ -1,6 +1,6 @@
 # Personal Finance Dashboard
 
-A modern, dark **Black + Violet** themed personal finance tracker built with Python and Streamlit. Data is stored locally in a CSV file — no database needed.
+A modern, dark themed personal finance tracker built with Python and Streamlit. Data is stored locally in a CSV file — no database needed.
 
 ## Features
 - **Dashboard** — Total Income, Total Expenses, Current Balance, Total Transactions, plus quick charts and recent activity
